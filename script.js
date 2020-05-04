@@ -69,7 +69,7 @@ function showResults(){
   });
 
   // show number of correct answers out of total
-  resultsContainer.innerHTML = `You scored ${numCorrect} out of ${myQuestions.length}`;
+  resultsContainer.innerHTML = `<h2>You scored ${numCorrect} out of ${myQuestions.length}</h2>`;
 }
 
 
