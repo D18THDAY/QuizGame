@@ -115,9 +115,9 @@ const myQuestions = [
     correctAnswer: "c"
   },
   {
-    question: "<h2>Which of this is a Javascript framework</h2>",
+    question: "<h2>Which of these is a Javascript library?</h2>",
     answers: {
-      a: "Tomisin",
+      a: "Eniola",
       b: "jQuery",
       c: "Khris"
     },
